@@ -1,4 +1,4 @@
-# Lexical Analyzer (Lexer)
+# Lexical Analyzer (Lexer) as a mobile application
 
 A lightweight, handcrafted Lexical Analyzer (Lexer) implemented as a mobile application. This project was developed as a fundamental language engineering task to process source code sequentially in a character-based manner, converting raw code text into a structured stream of tokens while building a dynamically populated symbol table.
 
