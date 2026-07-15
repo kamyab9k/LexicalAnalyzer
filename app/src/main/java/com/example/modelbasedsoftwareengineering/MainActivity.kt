@@ -1,8 +1,7 @@
 package com.example.modelbasedsoftwareengineering
 
 import android.os.Bundle
-import android.util.Log // Import for logging
-import androidx.activity.ComponentActivity
+import android.util.Log
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
@@ -12,6 +11,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.unit.dp
+import androidx.activity.ComponentActivity
 import com.example.modelbasedsoftwareengineering.ui.theme.ModelBasedSoftwareEngineeringTheme
 
 // --- LEXER LOGIC ---
