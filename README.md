@@ -34,6 +34,6 @@ The Lexer relies on deterministic structural pipelines to parse characters safel
 
 If you want to test the Lexer on the go without setting up a desktop development environment, you can install the Android build directly:
 
-1. Download the latest `.apk` file from the [Releases]() section of this repository.
+1. Download the latest `.apk` file from the [Releases](https://github.com/kamyab9k/LexicalAnalyzer/releases/tag/v1.0) section of this repository.
 2. Install it on your Android device (ensure "Install from Unknown Sources" is enabled in your settings).
 3. Open the app, paste any custom code snippet you want into the input field, and tap **Analyze** to view the live Token Stream and Symbol Table right on your phone!
