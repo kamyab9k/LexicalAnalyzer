@@ -5,7 +5,7 @@
 ## 📖 What is a Lexer?
 A Lexical Analyzer (often called a Lexer or Scanner) is the very first phase of a compiler. It reads raw source code character by character, strips away irrelevant data like whitespace, and groups the remaining characters into meaningful, categorized sequences called **tokens** (e.g., keywords, identifiers, numbers, and symbols). 
 
-This project was developed as a fundamental language engineering exercise. By processing source code sequentially and manually, it demonstrates the state transitions, pattern matching, and tokenization mechanics that underpin automated scanner tools (like Lex/Flex).
+This project was developed as a model-based software engineering exercise. By processing source code sequentially and manually, it demonstrates the state transitions, pattern matching, and tokenization mechanics that underpin automated scanner tools.
 
 ---
 
